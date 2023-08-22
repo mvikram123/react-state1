@@ -1,0 +1,17 @@
+.parent{
+
+    width: 500px;
+    
+    background-color: green;
+
+}
+.child{
+
+    width: 300px;
+
+    background-color: brown;
+    margin-left: 20px;
+}
+parent, h1{
+    margin-left: 20px;
+}
